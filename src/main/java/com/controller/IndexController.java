@@ -9,6 +9,6 @@ public class IndexController {
 	
 	@RequestMapping("index")
 	public Object index(){
-		return "hello word;liuyunqing";
+		return "hello word;liuyunqing version.v0.6";
 	}
 }
