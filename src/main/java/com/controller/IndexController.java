@@ -9,6 +9,7 @@ public class IndexController {
 	
 	@RequestMapping("index")
 	public Object index(){
-		return "hello word;liuyunqing version.v0.6";
+		return "hello word;liuyunqing version.v0.7 -merge";
+
 	}
 }
