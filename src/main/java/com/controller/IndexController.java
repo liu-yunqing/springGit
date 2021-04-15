@@ -12,4 +12,6 @@ public class IndexController {
 		return "hello word;liuyunqing version.v0.7 -merge --v0.8";
 
 	}
+	
+	
 }
